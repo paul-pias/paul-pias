@@ -43,15 +43,14 @@ I am a **Software Engineer** specializing in **Computer Vision**, **Deep Learnin
 
 ---
 
-### 📊 GitHub & Coding Activity
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=paul-pias&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="Pias Paul's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=paul-pias&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paul-pias&theme=react-dark" width="100%" alt="Pias Paul's Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://git-streak-stats.herokuapp.com/?user=paul-pias&theme=dark&hide_border=true&background=0D1117" width="97%" alt="Pias Paul's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paul-pias&theme=2077" width="100%" alt="Pias Paul's Profile Details" />
 </p>
 
 <!--START_SECTION:waka-->
